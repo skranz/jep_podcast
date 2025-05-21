@@ -12,6 +12,7 @@ This podcast is a private project from <a href="https://www.uni-ulm.de/mawi/mawi
 Personally, I really like these audio deep dives. But don't forget that AI can still hallucinate and make other mistakes.]]></description>
 <itunes:owner>
   <itunes:name>Sebastian Kranz</itunes:name>
+  <itunes:email>sebastian.kranz@uni-ulm.de</itunes:email>
 </itunes:owner>
 <image>
   <url>https://raw.githubusercontent.com/skranz/jep_podcast/main/logo_podcast_square.png</url>
@@ -37,7 +38,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>The Political Economy of Industrial Policy (2024) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.27">The Political Economy of Industrial Policy</art> (2024) by Réka Juhász, Nathan Lane.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.27">The Political Economy of Industrial Policy</a> (2024) by Réka Juhász, Nathan Lane.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -54,7 +55,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>Government Data of the People, by the People, for the People: Navigating Citizen Privacy Concerns (2024) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.2.181">Government Data of the People, by the People, for the People: Navigating Citizen Privacy Concerns</art> (2024) by Claire McKay Bowen.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.2.181">Government Data of the People, by the People, for the People: Navigating Citizen Privacy Concerns</a> (2024) by Claire McKay Bowen.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -71,7 +72,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>Retrospectives: Yair Mundlak and the Fixed Effects Estimator (2025) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241406">Retrospectives: Yair Mundlak and the Fixed Effects Estimator</art> (2025) by Marc F. Bellemare, Daniel L. Millimet.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241406">Retrospectives: Yair Mundlak and the Fixed Effects Estimator</a> (2025) by Marc F. Bellemare, Daniel L. Millimet.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -88,7 +89,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>Economic Markets and Pharmaceutical Innovation (2025) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20251438">Economic Markets and Pharmaceutical Innovation</art> (2025) by Craig Garthwaite.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20251438">Economic Markets and Pharmaceutical Innovation</a> (2025) by Craig Garthwaite.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -105,7 +106,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>Perspectives on the Labor Share (2024) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.2.107">Perspectives on the Labor Share</art> (2024) by Loukas Karabarbounis.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.2.107">Perspectives on the Labor Share</a> (2024) by Loukas Karabarbounis.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -122,7 +123,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>The 2023 Merger Guidelines and the Arc of Antitrust History (2025) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241415">The 2023 Merger Guidelines and the Arc of Antitrust History</art> (2025) by Daniel Francis.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241415">The 2023 Merger Guidelines and the Arc of Antitrust History</a> (2025) by Daniel Francis.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -139,7 +140,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>Getting Infrastructure Built: The Law and Economics of Permitting (2025) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20221347">Getting Infrastructure Built: The Law and Economics of Permitting</art> (2025) by Zachary Liscow.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20221347">Getting Infrastructure Built: The Law and Economics of Permitting</a> (2025) by Zachary Liscow.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -156,7 +157,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>The Problem of Good Conduct among Financial Advisers (2024) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.193">The Problem of Good Conduct among Financial Advisers</art> (2024) by Mark Egan, Gregor Matvos, Amit Seru.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.193">The Problem of Good Conduct among Financial Advisers</a> (2024) by Mark Egan, Gregor Matvos, Amit Seru.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -173,7 +174,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>Lessons for the United States from Pharmaceutical Regulation Abroad (2025) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241418">Lessons for the United States from Pharmaceutical Regulation Abroad</art> (2025) by Margaret K. Kyle.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241418">Lessons for the United States from Pharmaceutical Regulation Abroad</a> (2025) by Margaret K. Kyle.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -190,7 +191,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>The Economics of Generic Drug Shortages: The Limits of Competition (2025) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241420">The Economics of Generic Drug Shortages: The Limits of Competition</art> (2025) by Rena M. Conti, Marta E. Wosińska.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241420">The Economics of Generic Drug Shortages: The Limits of Competition</a> (2025) by Rena M. Conti, Marta E. Wosińska.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -207,7 +208,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>Evaluating Behavioral Incentive Compatibility: Insights from Experiments (2024) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.131">Evaluating Behavioral Incentive Compatibility: Insights from Experiments</art> (2024) by David Danz, Lise Vesterlund, Alistair J. Wilson.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.131">Evaluating Behavioral Incentive Compatibility: Insights from Experiments</a> (2024) by David Danz, Lise Vesterlund, Alistair J. Wilson.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
@@ -224,7 +225,7 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
 <item>
   <title>Export-Led Industrial Policy for Developing Countries: Is There a Way to Pick Winners? (2024) </title>
   <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.3">Export-Led Industrial Policy for Developing Countries: Is There a Way to Pick Winners?</art> (2024) by Tristan Reed.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.3">Export-Led Industrial Policy for Developing Countries: Is There a Way to Pick Winners?</a> (2024) by Tristan Reed.
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
   articles. AI makes mistakes.
