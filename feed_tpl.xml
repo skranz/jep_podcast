@@ -12,6 +12,7 @@ This podcast is a private project from <a href="https://www.uni-ulm.de/mawi/mawi
 Personally, I really like these audio deep dives. But don't forget that AI can still hallucinate and make other mistakes.]]></description>
 <itunes:owner>
   <itunes:name>Sebastian Kranz</itunes:name>
+  <itunes:email>sebastian.kranz@uni-ulm.de</itunes:email>
 </itunes:owner>
 <image>
   <url>https://raw.githubusercontent.com/skranz/jep_podcast/main/logo_podcast_square.png</url>
