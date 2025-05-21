@@ -1,10 +1,10 @@
 <item>
   <title>{{pod_title}}</title>
-  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
-  <a href="{{article_url}}">{{title}}</a> ({{year}}) by {{authors}}.
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="{{article_url}}">{{title}}</a> ({{year}}) by {{authors}} (Journal of Economic Perspectives).
 
   Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
-  articles. AI makes mistakes.
+  article. AI makes mistakes.
 
   Abstract:
   {{abstract}}
