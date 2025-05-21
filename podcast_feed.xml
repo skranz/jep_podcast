@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+<channel>
+<title>Diving into Economic Perspectives</title>
+<link></link>
+<language>en-us</language>
+<itunes:author>Sebastian Kranz</itunes:author>
+<description><![CDATA[AI generated audio deep dives into selected articles from the <a href="https://www.aeaweb.org/journals/jep">Journal of Economic Perspectives</a>. Generated using Google's <a href="https://notebooklm.google/NotebookLM">NotebookLM</a>.
+
+This podcast is a private project from <a href="https://www.uni-ulm.de/mawi/mawi-wiwi/institut/mitarbeiter/skranz/">Sebastian Kranz (Ulm University)</a> and not endorsed in any way by the Journal of Economic Perspectives, the American Economic Association or the authors of the underlying articles.
+
+Personally, I really like these audio deep dives. But don't forget that AI can still hallucinate and make other mistakes.]]></description>
+<itunes:owner>
+  <itunes:name>Sebastian Kranz</itunes:name>
+</itunes:owner>
+<image>
+  <url>https://raw.githubusercontent.com/skranz/jep_podcast/main/logo_podcast_square.png</url>
+  <title>Diving into Economic Perspectives</title>
+</image>
+<itunes:image href="https://raw.githubusercontent.com/skranz/jep_podcast/main/logo_podcast_square.png"/>
+<itunes:category text="Science">
+  <itunes:category text="Social Sciences"/>
+</itunes:category>
+
+<itunes:category text="Government">
+  <itunes:category text="Politics"/>
+</itunes:category>
+
+<itunes:category text="Education">
+  <itunes:category text="Higher Education"/>
+</itunes:category>    <itunes:explicit>no</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:keywords>economics, research, journal of economic perspectives, AI narration, deep dive, notebooklm</itunes:keywords>
+
+
+
+<item>
+  <title>The Political Economy of Industrial Policy (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.27">The Political Economy of Industrial Policy</art> (2024) by Réka Juhász, Nathan Lane.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  We examine the ways in which political realities shape industrial policy through the lens of modern political economy. We consider two broad "governance constraints": (1) the political forces that shape how industrial policy is chosen and (2) the ways in which state capacity affects implementation. The framework of modern political economy suggests that government failure is not a necessary feature of industrial policy; rather, it is more likely to fail when countries pursue industrial policies beyond their governance capacity constraints. As such, our political economy of industrial policy is not fatalist. Instead, it enables policymakers to constructively confront challenges.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_4_2/The_Political_Economy_of_Industrial_Policy.mp3" length="32532019" type="audio/mpeg"/>
+  <guid>jep_38_4_2</guid>
+  <pubDate>Wed, 21 May 2025 09:13:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Government Data of the People, by the People, for the People: Navigating Citizen Privacy Concerns (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.2.181">Government Data of the People, by the People, for the People: Navigating Citizen Privacy Concerns</art> (2024) by Claire McKay Bowen.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  The data privacy community generally agrees that government data should be more widely accessible, especially being of the people (data collected about them), by the people (collected and supported using taxpayer dollars), and for the people (providing public and social good). But what to protect in that data and how to do so are highly and intensely debated. This paper discusses the fundamental tradeoff between data privacy and data usefulness—and how determining an appropriate balance can be difficult. The paper also provides thoughts on what must be addressed to help shape the future of data privacy, make meaningful contributions to its policy debates, and ensure the responsible representation of people in data.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_2_9/Government_Data_and_Citizen_Privacy_Concerns.mp3" length="14707979" type="audio/mpeg"/>
+  <guid>jep_38_2_9</guid>
+  <pubDate>Wed, 21 May 2025 09:23:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Retrospectives: Yair Mundlak and the Fixed Effects Estimator (2025) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241406">Retrospectives: Yair Mundlak and the Fixed Effects Estimator</art> (2025) by Marc F. Bellemare, Daniel L. Millimet.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  We discuss Yair Mundlak's (1927–2015) contribution to econometrics through the lens of the fixed effects estimator. We set the stage by discussing Mundlak's life and his seminal 1961 article in the Journal of Farm Economics, showing how it was looking at the right application—the study of agricultural productivity, which had hitherto been thought to be marred by the presence of management bias—that led Mundlak to use the fixed effects estimator. After discussing Mundlak's contribution, we briefly discuss the historical economic and statistical contexts in which he made that contribution. We then highlight the dialogue that took place between the proponents of fixed versus random effects and discuss how Mundlak settled the debate in his 1978 Econometrica article. We conclude by discussing how, between fixed and random effects, the fixed effects estimator won the day, becoming the de facto estimator of choice among applied economists because of the Credibility Revolution, culminating in the popularity nowadays of difference-in-differences designs and of two-way fixed effects estimators.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_39_2_12/Yair_Mundlak_and_Fixed_Effects_Estimation.mp3" length="12292209" type="audio/mpeg"/>
+  <guid>jep_39_2_12</guid>
+  <pubDate>Wed, 21 May 2025 09:33:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Economic Markets and Pharmaceutical Innovation (2025) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20251438">Economic Markets and Pharmaceutical Innovation</art> (2025) by Craig Garthwaite.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  Pharmaceutical innovations reach the market after a long and risky process that requires large, fixed, and sunk investments. Governments provide incentives for firms to make these investments through various forms of intellectual property protection that attempt to provide a return on capital for investors. As a result, pharmaceutical innovation results from an explicit intersection of public policy and private market incentives. Developing optimal policy therefore requires understanding market features such as how innovation is financed, how firms commercialize pharmaceutical products, the influence of insurance coverage on consumption and spending, and how competition emerges after intellectual property protection ends.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_39_2_1/Economics_of_Pharmaceutical_Innovation_and_Pricing.mp3" length="21186289" type="audio/mpeg"/>
+  <guid>jep_39_2_1</guid>
+  <pubDate>Wed, 21 May 2025 09:43:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Perspectives on the Labor Share (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.2.107">Perspectives on the Labor Share</art> (2024) by Loukas Karabarbounis.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  As of 2022, the share of US income accruing to labor is at its lowest level since the Great Depression. Updating previous studies with more recent observations, I document the continuing decline of the labor share for the United States, other countries, and various industries. I discuss how changes in technology and product, labor, and capital markets affect the trend of the labor share. I also examine its relationship with other macroeconomic trends, such as rising markups, higher concentration of economic activity, and globalization. I conclude by offering some perspectives on the economic and policy implications of the labor share decline.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_2_6/Perspectives_on_the_Labor_Share.mp3" length="25336538" type="audio/mpeg"/>
+  <guid>jep_38_2_6</guid>
+  <pubDate>Wed, 21 May 2025 09:53:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The 2023 Merger Guidelines and the Arc of Antitrust History (2025) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241415">The 2023 Merger Guidelines and the Arc of Antitrust History</art> (2025) by Daniel Francis.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  In 2023, the federal antitrust agencies rewrote the nation's flagship merger policy document, as part of a broader "Neo-Brandeisian" effort to bring about a deep reform of the antitrust system. The result—the 2023 Merger Guidelines—has been highly controversial: celebrated by some as a revolutionary advance, and criticized by others as a step back toward a benighted past. This article evaluates the 2023 guidance against the arc of antitrust's modern history. It argues that the new guidance breaks a long trend of migration from structure toward welfare as the primary orientation of merger enforcement, but that it does so cautiously, by achieving a fraught ambiguity between welfarist and nonwelfarist policies. In inviting both revolutionary and evolutionary readings, the agencies have sacrificed clarity and discouraged beneficial deals, but they have also deferred—at least for now—a sharp conflict between those who would preserve antitrust's governing paradigm and those who would remake it.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_39_1_1/Antitrust_History_and_the_2023_Merger_Guidelines.mp3" length="23535949" type="audio/mpeg"/>
+  <guid>jep_39_1_1</guid>
+  <pubDate>Wed, 21 May 2025 10:03:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Getting Infrastructure Built: The Law and Economics of Permitting (2025) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20221347">Getting Infrastructure Built: The Law and Economics of Permitting</art> (2025) by Zachary Liscow.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  Given the benefits to economic growth and economic mobility, and the need to transition to green energy, getting infrastructure built is an urgent issue. I first review the evidence on the costs and benefits of the current regime of government approvals for such building: in the US, permitting is slow, infrastructure is expensive, and environmental outcomes are not particularly good. I propose a framework for reform with two dimensions: the power of the executive branch to decide and its capacity to plan. After considering reform possibilities, I propose that reforming both dimensions could lead to a possible "green bargain" that benefits efficiency, the environment, and democracy.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_39_1_7/Getting_Infrastructure_Built.mp3" length="24365575" type="audio/mpeg"/>
+  <guid>jep_39_1_7</guid>
+  <pubDate>Wed, 21 May 2025 10:13:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The Problem of Good Conduct among Financial Advisers (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.193">The Problem of Good Conduct among Financial Advisers</art> (2024) by Mark Egan, Gregor Matvos, Amit Seru.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  Households in the United States often rely on financial advisers for investment and savings decisions, yet there is a widespread perception that many advisers are dishonest. This distrust is not unwarranted: approximately one in fifteen advisers has a history of serious misconduct, with this rate rising to one in six in certain regions and firms. We explore the economic foundations of the financial advisory industry and demonstrate how heterogeneity in household financial sophistication and conflicts of interest allow poor financial advice to persist. Using data on the universe of financial advisers and the Survey of Consumer Finances, we document who uses financial advisers and the prevalence of misconduct in the industry. Our findings suggest that a lack of financial sophistication is a key friction, making enhanced disclosure a potentially effective policy response. Supporting this, we show through a difference-in-differences approach that "naming and shaming" firms with high misconduct rates was associated with a 10 percent reduction in misconduct.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_4_9/Financial_Adviser_Misconduct_and_Regulation.mp3" length="13529984" type="audio/mpeg"/>
+  <guid>jep_38_4_9</guid>
+  <pubDate>Wed, 21 May 2025 10:23:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Lessons for the United States from Pharmaceutical Regulation Abroad (2025) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241418">Lessons for the United States from Pharmaceutical Regulation Abroad</art> (2025) by Margaret K. Kyle.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  Pharmaceutical markets are characterized by barriers to entry and information problems. Many countries intervene in the pricing and reimbursement of drugs to a greater extent than the US government to date. Continued pressure from politicians and recent legislation are likely to change the market for pharmaceuticals in the United States. This article discusses the approaches adopted in other developed countries and the implications of their use in the United States, which due to its size, has far greater influence over the rate and direction of innovation. Alternative policy choices and the challenges of their implementation are also reviewed.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_39_2_3/Pharmaceutical_Regulation_Lessons_from_Abroad.mp3" length="61250482" type="audio/mpeg"/>
+  <guid>jep_39_2_3</guid>
+  <pubDate>Wed, 21 May 2025 10:33:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The Economics of Generic Drug Shortages: The Limits of Competition (2025) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241420">The Economics of Generic Drug Shortages: The Limits of Competition</art> (2025) by Rena M. Conti, Marta E. Wosińska.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  We examine the economics of the US generic prescription drug market, which comprises the majority of medicines sold. The market is celebrated for its benefits in the form of high quality and low prices for consumers but is also increasingly challenged by shortages that may disrupt patient care. Shortages in the generic drug market present an economic puzzle—in the face of a shortage, prices should rise, encouraging entry, yet we observe shortages increasing in number and persistence. Moreover, if shortages cause patient harm, why don't markets pay a premium for a reliable supply chain? We argue that the puzzle can be explained by the inability of generic drug prices to adjust easily due to regulatory and contracting frictions, and the coexisting presence of asymmetric information and agency problems in the US market. We conclude with a discussion of policy interventions aimed at addressing these challenges to ensure resilient US generic drug supply.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_39_2_4/Economics_of_Generic_Drug_Shortages.mp3" length="19344341" type="audio/mpeg"/>
+  <guid>jep_39_2_4</guid>
+  <pubDate>Wed, 21 May 2025 10:43:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Evaluating Behavioral Incentive Compatibility: Insights from Experiments (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.131">Evaluating Behavioral Incentive Compatibility: Insights from Experiments</art> (2024) by David Danz, Lise Vesterlund, Alistair J. Wilson.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  Incentive compatibility is core to mechanism design. The success of auctions, matching algorithms, and voting systems all hinge on the ability to select incentives that make it in the individual's interest to reveal their type. But how do we test whether a mechanism that is designed to be incentive compatible is actually so in practice, particularly when faced with boundedly rational agents with nonstandard preferences? We review the many experimental tests that have been designed to assess behavioral incentive compatibility, separating them into two categories: indirect tests that evaluate behavior within the mechanism, and direct tests that assess how participants respond to the mechanism's incentives. Using belief elicitation as a running example, we show that the most popular elicitations are not behaviorally incentive compatible. In fact, the incentives used under these elicitations discourage rather than encourage truthful revelation.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_4_6/Evaluating_Behavioral_Incentive_Compatibility_Through_Experiments.mp3" length="26031439" type="audio/mpeg"/>
+  <guid>jep_38_4_6</guid>
+  <pubDate>Wed, 21 May 2025 10:53:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Export-Led Industrial Policy for Developing Countries: Is There a Way to Pick Winners? (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.3">Export-Led Industrial Policy for Developing Countries: Is There a Way to Pick Winners?</art> (2024) by Tristan Reed.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  Industrial policy prioritizes growth in specific sectors. Yet there is little agreement about how to target sectors in practice, and many argue that governments cannot pick winners. This essay observes that governments can and do identify tradable sectors where public inputs accelerate growth and generate economic benefits. These strategic sectors are: (1) those that are relatively more productive, and (2) those that are relatively less productive but require technology like the country's existing technology and have rapidly growing markets and limited international competition. Since developing countries are productive in fewer sectors and have less technology, targeting can be more valuable for them. Export promotion agencies are institutions that have demonstrated effectiveness in coordinating public inputs to grow these sectors. Compared to protectionism, this alternative approach to 'industrial policy' is cheaper, less susceptible to capture by unproductive firms, and permissible under the rules of international trade agreements. Many countries' development strategies adopt this approach.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_4_1/Picking_Winners_in_Export_Led_Industrial_Policy.mp3" length="11353609" type="audio/mpeg"/>
+  <guid>jep_38_4_1</guid>
+  <pubDate>Wed, 21 May 2025 11:03:08 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+
+
+</channel>
+</rss>

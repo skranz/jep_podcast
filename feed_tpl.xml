@@ -5,7 +5,11 @@
 <link></link>
 <language>en-us</language>
 <itunes:author>Sebastian Kranz</itunes:author>
-<description><![CDATA[AI generated audio deep dives into selected articles from the <a href="https://www.aeaweb.org/journals/jep">Journal of Economic Perspectives</a>. Generated using Google's <a href="https://notebooklm.google/NotebookLM">NotebookLM</a>. This podcast is a private project from <a href="https://www.uni-ulm.de/mawi/mawi-wiwi/institut/mitarbeiter/skranz/">Sebastian Kranz (Ulm University)</a> and not endorsed in any way by the Journal of Economic Perspectives, the American Economic Association or the authors of the underlying articles. Personally, I really like these audio deep dives. But don't forget that AI can still hallucinate and make other mistakes.]]></description>
+<description><![CDATA[AI generated audio deep dives into selected articles from the <a href="https://www.aeaweb.org/journals/jep">Journal of Economic Perspectives</a>. Generated using Google's <a href="https://notebooklm.google/NotebookLM">NotebookLM</a>.
+
+This podcast is a private project from <a href="https://www.uni-ulm.de/mawi/mawi-wiwi/institut/mitarbeiter/skranz/">Sebastian Kranz (Ulm University)</a> and not endorsed in any way by the Journal of Economic Perspectives, the American Economic Association or the authors of the underlying articles.
+
+Personally, I really like these audio deep dives. But don't forget that AI can still hallucinate and make other mistakes.]]></description>
 <itunes:owner>
   <itunes:name>Sebastian Kranz</itunes:name>
 </itunes:owner>

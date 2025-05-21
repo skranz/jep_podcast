@@ -1,15 +1,15 @@
 <item>
   <title>{{pod_title}}</title>
-  <description><![CDATA[A NotebookLM deep dive into the article
-  <a href="{{article_url}}">{{pod_title}}</art> ({{year}}) by {{authors}},
-  published in the Journal of Economic Perspectives.
-  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
-  articles.
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="{{article_url}}">{{title}}</art> ({{year}}) by {{authors}}.
 
-  Abstract of the original article:
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
   {{abstract}}
   ]]></description>
-  <enclosure url="{{release_mp3_url}}" length="{{mp3_bytes}}" type="audio/mpeg"/>
+  <enclosure url="{{mp3_url}}" length="{{mp3_bytes}}" type="audio/mpeg"/>
   <guid>{{guid}}</guid>
   <pubDate>{{pubDate}}</pubDate>
   <itunes:explicit>no</itunes:explicit>
