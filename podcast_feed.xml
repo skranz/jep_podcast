@@ -239,6 +239,103 @@ Personally, I really like these audio deep dives. But don't forget that AI can s
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+  <title>When Privacy Protection Goes Wrong: How and Why the 2020 Census Confidentiality Program Failed (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.2.201">When Privacy Protection Goes Wrong: How and Why the 2020 Census Confidentiality Program Failed</a> (2024) by Steven Ruggles.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  The US Census Bureau implemented a new disclosure control strategy for the 2020 Census that adds deliberate error to every population statistic for every geographic unit smaller than a state, including metropolitan areas, 
+cities, and counties. This article traces the evolving rationale for the new procedures and assesses the impact of the 2020 disclosure control on data quality. The Census Bureau argues that the traditional disclosure controls used 
+for the 2010 and earlier censuses revealed the confidential responses of millions of Americans. I argue that this claim is unsupported, and that there is no evidence that anyone's responses were compromised. The new 
+disclosure control strategies introduce unnecessary error with no clear benefit; in fact, the new procedures may actually be less effective for protecting confidentiality than the procedures they replaced. I conclude with 
+recommendations for minimizing disclosure risk while maximizing data utility in future censuses.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_2_10/2020_Census_Confidentiality_Program_Failure.mp3" length="18538941" type="audio/mpeg"/>
+  <guid>jep_38_2_10</guid>
+  <pubDate>Wed, 21 May 2025 11:38:06 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Behavioral Incentive Compatibility and Empirically Informed Welfare Analysis: An Introductory Guide (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.155">Behavioral Incentive Compatibility and Empirically Informed Welfare Analysis: An Introductory Guide</a> (2024) by Alex Rees-Jones.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  A growing body of research conducts welfare analysis that assumes behavioral incentive compatibility—that is, that behavior is governed by pursuit of incentives conditional on modeled imperfections in decision-making. In this article, I present several successful examples of studies that apply this approach and I use them to illustrate guidance for pursuing this type of analysis.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_4_7/Behavioral_Incentive_Compatibility_and_Welfare_Analysis.mp3" length="8600678" type="audio/mpeg"/>
+  <guid>jep_38_4_7</guid>
+  <pubDate>Wed, 21 May 2025 11:48:06 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The Shifting Reasons for Beveridge Curve Shifts (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.2.83">The Shifting Reasons for Beveridge Curve Shifts</a> (2024) by Gadi Barlevy, R. Jason Faberman, Bart Hobijn, Ayşegül Şahin.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  We discuss how the relative importance of factors that contribute to movements of the US Beveridge curve has changed from 1959 to 2023. We review these factors in the context of a simple flow analogy used to capture the 
+main insights of search and matching theories of the labor market. Changes in inflow rates, related to demographics, accounted for Beveridge curve shifts between 1959 and 2000. A reduction in matching efficiency, that 
+depressed unemployment outflows, shifted the curve outwards in the wake of the Great Recession. In contrast, the most recent shifts in the Beveridge curve appear driven by changes in the eagerness of workers to switch jobs. 
+Finally, we argue that, while the Beveridge curve is a useful tool for relating unemployment and job openings to inflation, the link between these labor market indicators and inflation depends on whether and why the Beveridge 
+curve shifted. Therefore, a careful examination of the factors underlying movements in the Beveridge curve is essential for drawing policy conclusions from the joint behavior of unemployment and job openings.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_2_5/Beveridge_Curve_Shifts_and_Inflation.mp3" length="21563284" type="audio/mpeg"/>
+  <guid>jep_38_2_5</guid>
+  <pubDate>Wed, 21 May 2025 11:58:06 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>A Practical Guide to Shift-Share Instruments (2025) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20231370">A Practical Guide to Shift-Share Instruments</a> (2025) by Kirill Borusyak, Peter Hull, Xavier Jaravel.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  A recent econometric literature shows two distinct paths for identification with shift-share instruments, leveraging either many exogenous shifts or exogenous shares. We present the core logic of both paths and practical takeaways via simple checklists. A variety of empirical settings illustrate key points.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_39_1_8/Practical_Guide_to_Shift_Share_Instruments.mp3" length="13083415" type="audio/mpeg"/>
+  <guid>jep_39_1_8</guid>
+  <pubDate>Wed, 21 May 2025 12:08:06 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Skilled Immigrants, Firms, and the Global Geography of Innovation (2024) </title>
+  <description><![CDATA[A NotebookLM deep dive into the Journal of Economic Perspectives article
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.1.3">Skilled Immigrants, Firms, and the Global Geography of Innovation</a> (2024) by Britta Glennon.
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  articles. AI makes mistakes.
+
+  Abstract:
+  This article begins with an overview of the policy environment in the United States and abroad for skilled immigration, with a particular focus on "supply-driven" versus "demand-driven" systems. The overview emphasizes that 
+firms play a central role in the skilled immigration process in most countries. I then survey the ample evidence that skilled immigrants have a strong positive effect on firm outcomes, followed by a discussion of the many margins 
+of adjustment that firms have when their access to skilled immigrants is affected by national immigration policy. Finally, given such margins of adjustment and the importance of skilled immigrants to firms, I consider how the 
+policies that affect skilled migration shape the global geography and quality of innovation. I conclude by discussing policy implications and open questions. In particular, I emphasize that evaluations of the impact of skilled 
+immigration should not be constrained within borders: immigration flows and national immigration policies affect the global geography of innovation and investment.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_1_1/Skilled_Immigration_Firms_and_Innovation_Geography.mp3" length="16501158" type="audio/mpeg"/>
+  <guid>jep_38_1_1</guid>
+  <pubDate>Wed, 21 May 2025 12:18:06 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 
 
 </channel>
