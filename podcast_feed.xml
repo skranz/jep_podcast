@@ -278,44 +278,6 @@ recommendations for minimizing disclosure risk while maximizing data utility in 
 </item>
 
 <item>
-  <title>The Shifting Reasons for Beveridge Curve Shifts (2024) </title>
-  <description><![CDATA[NotebookLM deep dive into
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.2.83">The Shifting Reasons for Beveridge Curve Shifts</a> (2024) by Gadi Barlevy, R. Jason Faberman, Bart Hobijn, Ayşegül Şahin (Journal of Economic Perspectives).
-
-  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
-  article. AI makes mistakes.
-
-  Abstract:
-  We discuss how the relative importance of factors that contribute to movements of the US Beveridge curve has changed from 1959 to 2023. We review these factors in the context of a simple flow analogy used to capture the 
-main insights of search and matching theories of the labor market. Changes in inflow rates, related to demographics, accounted for Beveridge curve shifts between 1959 and 2000. A reduction in matching efficiency, that 
-depressed unemployment outflows, shifted the curve outwards in the wake of the Great Recession. In contrast, the most recent shifts in the Beveridge curve appear driven by changes in the eagerness of workers to switch jobs. 
-Finally, we argue that, while the Beveridge curve is a useful tool for relating unemployment and job openings to inflation, the link between these labor market indicators and inflation depends on whether and why the Beveridge 
-curve shifted. Therefore, a careful examination of the factors underlying movements in the Beveridge curve is essential for drawing policy conclusions from the joint behavior of unemployment and job openings.
-  ]]></description>
-  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_2_5/Beveridge_Curve_Shifts_and_Inflation.mp3" length="21563284" type="audio/mpeg"/>
-  <guid>jep_38_2_5</guid>
-  <pubDate>Wed, 21 May 2025 11:58:06 +0000</pubDate>
-  <itunes:explicit>no</itunes:explicit>
-</item>
-
-<item>
-  <title>A Practical Guide to Shift-Share Instruments (2025) </title>
-  <description><![CDATA[NotebookLM deep dive into
-  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20231370">A Practical Guide to Shift-Share Instruments</a> (2025) by Kirill Borusyak, Peter Hull, Xavier Jaravel (Journal of Economic Perspectives).
-
-  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
-  article. AI makes mistakes.
-
-  Abstract:
-  A recent econometric literature shows two distinct paths for identification with shift-share instruments, leveraging either many exogenous shifts or exogenous shares. We present the core logic of both paths and practical takeaways via simple checklists. A variety of empirical settings illustrate key points.
-  ]]></description>
-  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_39_1_8/Practical_Guide_to_Shift_Share_Instruments.mp3" length="13083415" type="audio/mpeg"/>
-  <guid>jep_39_1_8</guid>
-  <pubDate>Wed, 21 May 2025 12:08:06 +0000</pubDate>
-  <itunes:explicit>no</itunes:explicit>
-</item>
-
-<item>
   <title>Skilled Immigrants, Firms, and the Global Geography of Innovation (2024) </title>
   <description><![CDATA[NotebookLM deep dive into
   <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.1.3">Skilled Immigrants, Firms, and the Global Geography of Innovation</a> (2024) by Britta Glennon (Journal of Economic Perspectives).
@@ -333,6 +295,61 @@ immigration should not be constrained within borders: immigration flows and nati
   <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_1_1/Skilled_Immigration_Firms_and_Innovation_Geography.mp3" length="16501158" type="audio/mpeg"/>
   <guid>jep_38_1_1</guid>
   <pubDate>Wed, 21 May 2025 12:18:06 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Patents, Innovation, and Competition in Pharmaceuticals: The Hatch-Waxman Act after 40 Years (2025) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.20241423">Patents, Innovation, and Competition in Pharmaceuticals: The Hatch-Waxman Act after 40 Years</a> (2025) by C. Scott Hemphill, Bhaven N. Sampat (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  A central policy issue in pharmaceuticals is how to balance the dynamic benefits of new drugs against the static benefits of low prices for existing drugs. In the United States, that balance is set by the Hatch-Waxman Act. We review the Act's origins and key features, then present evidence on its effects on competition and innovation. On the competition side, we show how the Act creates incentives for brands to accumulate patents and generics to challenge them, with the result being a rough stalemate. We also discuss strategies deployed by brands to delay generic entry. On the innovation side, we show that the Act's patent extension provisions—which aim to allow branded firms to make up for time lost during clinical trials and regulatory review—are incomplete, resulting in potential distortions. The net result is a convoluted and expensive approach to balancing innovation and competition.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_39_2_2/Hatch_Waxman_Pharmaceutical_Patents_and_Competition_After_40_Years.mp3" length="22586455" type="audio/mpeg"/>
+  <guid>jep_39_2_2</guid>
+  <pubDate>Thu, 22 May 2025 06:55:49 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Does the Value-Added Tax Add Value? Lessons Using Administrative Data from a Diverse Set of Countries (2024) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.1.107">Does the Value-Added Tax Add Value? Lessons Using Administrative Data from a Diverse Set of Countries</a> (2024) by Anne Brockmeyer ⓡ, Giulia Mascagni ⓡ, Vedanth Nair ⓡ, Mazhar Waseem ⓡ, Miguel Almunia (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  The value-added tax (VAT) is a cornerstone of the modern tax system. It has many desirable properties in theory: it does not distort firms' production decisions, it is difficult to evade, and it generates a substantial amount of 
+revenue. Yet, in many countries there are discrepancies between the textbook model of the VAT and its practical implementation. Where the VAT implementation diverges from its textbook model, the tax may lose its desirable 
+properties. We draw on firm-level administrative VAT records from 11 countries at different income levels to examine the functioning of real-world VAT systems. We document four stylized facts that capture departures from the 
+textbook VAT model which are particularly pronounced in lower-income countries. We discuss the effects on VAT performance and simulate a counterfactual retail sales tax and a turnover tax. Despite its shortcomings, we 
+conclude that the real-world VAT is superior to the alternatives.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_1_5/Real_World_Value_Added_Tax_Performance.mp3" length="21362806" type="audio/mpeg"/>
+  <guid>jep_38_1_5</guid>
+  <pubDate>Thu, 22 May 2025 07:05:49 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Semiconductors and Modern Industrial Policy (2024) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.4.81">Semiconductors and Modern Industrial Policy</a> (2024) by Chad P. Bown, Dan Wang (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  Semiconductors have emerged as a headline in the resurgence of modern industrial policy. This paper explores the political economic history of the sector, the changing nature of the semiconductor supply chain, and the new sources of concern that have motivated the most recent turn to government intervention. It also explores details of that turn to industrial policy by the United States, China, Japan, Europe, South Korea, and Taiwan. Modern industrial policy for semiconductors has included not only subsidies for manufacturing, but also new import tariffs, export controls, foreign investment screening, and antitrust actions.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_4_4/Semiconductors_Global_Competition_and_Industrial_Policy.mp3" length="24494029" type="audio/mpeg"/>
+  <guid>jep_38_4_4</guid>
+  <pubDate>Thu, 22 May 2025 07:15:49 +0000</pubDate>
   <itunes:explicit>no</itunes:explicit>
 </item>
 
