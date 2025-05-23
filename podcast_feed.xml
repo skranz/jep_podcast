@@ -353,6 +353,61 @@ conclude that the real-world VAT is superior to the alternatives.
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+  <title>The Economics of Electricity Reliability (2023) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.37.4.181">The Economics of Electricity Reliability</a> (2023) by Severin Borenstein, James Bushnell, Erin Mansur (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  The physics of an electrical grid requires that the supply injected into the grid is always in balance with the quantity consumed. If that balance is not maintained, cascading outages are likely to disrupt supply to all consumers on the grid. In the past, vertically 
+integrated monopoly utilities have ensured that supply is adequate to meet demand and maintain grid stability, but with deregulation of generation, assuring adequate supply has become much more complex. The unique characteristics of electricity 
+distribution means that there are immense potential externalities among market participants from supply shortfalls. In this paper, we discuss the institutions that US electricity markets have developed to avoid such destabilizing supply shortfalls when there 
+are multiple generators and retailers in the market. Though many of the markets rely on standardized requirements for supplier reserves, we conclude that recent technological progress may steer future evolution towards a system that relies to a greater 
+extent on economic incentives.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_37_4_9/Electricity_Reliability_Economics_Challenges_and_Transformations.mp3" length="16023040" type="audio/mpeg"/>
+  <guid>jep_37_4_9</guid>
+  <pubDate>Fri, 23 May 2025 04:46:30 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>How Far Goods Travel: Global Transport and Supply Chains from 1965–2020 (2023) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.37.3.3">How Far Goods Travel: Global Transport and Supply Chains from 1965–2020</a> (2023) by Sharat Ganapati, Woan Foong Wong (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  This paper considers the evolution of global transportation usage over the past half century and its implications for supply chains. Transportation usage has more than doubled as costs decreased by a third. Participation of emerging economies in world trade and longer-distance trade between countries contribute to this usage increase, thereby encouraging longer supply chains. We discuss technological advances over this period, and their interactions with endogenous responses from transportation costs and supply chain linkages. Supply chains involving more countries and longer distances are reflective of reliable and efficient transportation, but are also more exposed to disruptions, highlighting the importance of considering the interconnectedness of transportation and supply chains in policymaking and future work.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_37_3_1/Global_Transport_and_Supply_Chains_1965_2020.mp3" length="14935243" type="audio/mpeg"/>
+  <guid>jep_37_3_1</guid>
+  <pubDate>Fri, 23 May 2025 04:56:30 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The Failure of Silicon Valley Bank and the Panic of 2023 (2024) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.38.1.133">The Failure of Silicon Valley Bank and the Panic of 2023</a> (2024) by Andrew Metrick (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  The failure of Silicon Valley Bank on March 10, 2023 brought attention to significant weaknesses across the banking system, leading to a panic that spread to other vulnerable banks. With subsequent failures of Signature Bank and First Republic Bank, the United States had three of the four largest bank failures in its history occur over a two-month period. Several features of the Silicon Valley Bank failure make it an ideal teaching case for explaining the underlying economics of banking (in general) and banking crises (specifically). This paper tries to do that.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_38_1_6/Silicon_Valley_Bank_Failure_and_2023_Panic.mp3" length="17865169" type="audio/mpeg"/>
+  <guid>jep_38_1_6</guid>
+  <pubDate>Fri, 23 May 2025 05:06:30 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 
 
 </channel>
