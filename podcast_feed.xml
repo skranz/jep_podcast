@@ -484,6 +484,43 @@ patterns call for new models and data to capture the potential for foreign produ
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+  <title>Economic Sanctions: Evolution, Consequences, and Challenges (2023) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.37.1.3">Economic Sanctions: Evolution, Consequences, and Challenges</a> (2023) by T. Clifton Morgan, Constantinos Syropoulos, Yoto V. Yotov (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  Taking an interdisciplinary perspective, we examine the evolution of economic sanctions in the post-World War II era and reflect on the lessons that could be drawn from their features and patterns of use. We observe that, during this time, there has been a remarkable increase in the use of sanctions as an instrument of foreign policy. We classify this period into four 'eras' and discuss, in this context, how the evolution of sanctions may be linked to salient features of the contemporaneous international political and economic orders. Our review of the related literatures in economics and political science suggests, among other things, that our understanding of sanction processes could be significantly advanced by marrying these perspectives. We conclude by identifying several questions and challenges, and by discussing how interdisciplinary research could address them.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_37_1_1/Economic_Sanctions_Evolution_and_Impact.mp3" length="26156353" type="audio/mpeg"/>
+  <guid>jep_37_1_1</guid>
+  <pubDate>Sun, 25 May 2025 10:32:01 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Financial Sanctions, SWIFT, and the Architecture of the International Payment System (2023) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.37.1.31">Financial Sanctions, SWIFT, and the Architecture of the International Payment System</a> (2023) by Marco Cipriani, Linda S. Goldberg, Gabriele La Spada (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  Financial sanctions, alongside economic sanctions, are components of the toolkit used by governments as part of international diplomacy. The use of sanctions, especially financial, has increased over the 
+last 70 years. Financial sanctions have been particularly important whenever the goals of the sanctioning countries were related to democracy and human rights. Financial sanctions restrict entities—countries, businesses, or even individuals—from purchasing or selling financial assets, or from accessing custodial or other financial services. They can be imposed on a sanctioned entity's ability to 
+access the infrastructures that are in place to execute international payments, irrespective of whether such payments underpin financial or real activity. This article explains how financial sanctions can be 
+designed to limit access to the international payment system and, in particular, the SWIFT network, and provides some recent examples.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_37_1_2/SWIFT_and_the_Architecture_of_International_Payments.mp3" length="18347549" type="audio/mpeg"/>
+  <guid>jep_37_1_2</guid>
+  <pubDate>Sun, 25 May 2025 10:42:01 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 
 
 </channel>
