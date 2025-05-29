@@ -724,6 +724,117 @@ collective action.
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+  <title>Fragile Algorithms and Fallible Decision-Makers: Lessons from the Justice System (2021) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.35.4.71">Fragile Algorithms and Fallible Decision-Makers: Lessons from the Justice System</a> (2021) by Jens Ludwig, Sendhil Mullainathan (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  Algorithms (in some form) are already widely used in the criminal justice system. We draw lessons from this experience for what is to come for the rest of society as machine learning diffuses. We find economists and other social scientists have a key role to play in shaping the impact of algorithms, in part through improving the tools used to build them.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_35_4_4/Algorithms_Bias_and_Justice_System_Reform.mp3" length="17201388" type="audio/mpeg"/>
+  <guid>jep_35_4_4</guid>
+  <pubDate>Thu, 29 May 2025 04:01:49 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Marketing Investment and Intangible Brand Capital (2022) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.36.3.53">Marketing Investment and Intangible Brand Capital</a> (2022) by Bart J. Bronnenberg, Jean-Pierre Dubé, Chad Syverson (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  US companies invested over $500 billion in 2021 in intangible brand capital, over 2% of GDP. During the past decade, US companies have also been growing their internal marketing capabilities, an often overlooked source of human capital. We discuss the private and social benefits of these intangible brand capital stocks. While the private returns to companies are fairly clear, the academic literature has been divided over the social benefits and costs of advertising and promotion, the two key investment vehicles. We also discuss the implications of brand capital for measured productivity.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_36_3_3/Intangible_Capital_from_Marketing_Investment.mp3" length="19151898" type="audio/mpeg"/>
+  <guid>jep_36_3_3</guid>
+  <pubDate>Thu, 29 May 2025 04:11:49 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The Subjective Inflation Expectations of Households and Firms: Measurement, Determinants, and Implications (2022) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.36.3.157">The Subjective Inflation Expectations of Households and Firms: Measurement, Determinants, and Implications</a> (2022) by Michael Weber, Francesco D'Acunto, Yuriy Gorodnichenko, Olivier Coibion (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  Households' and firms' subjective inflation expectations play a central role in macroeconomic and intertemporal microeconomic models. We discuss how subjective inflation expectations are measured, the patterns they display, their determinants, and how they shape households' and firms' economic choices in the data and help us make sense of the observed heterogeneous reactions to business-cycle shocks and policy interventions. We conclude by highlighting the relevant open questions and why tackling them is important for academic research and policymaking.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_36_3_7/Subjective_Inflation_Expectations_of_Households_and_Firms.mp3" length="21118772" type="audio/mpeg"/>
+  <guid>jep_36_3_7</guid>
+  <pubDate>Thu, 29 May 2025 04:21:49 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Blending Theory and Data: A Space Odyssey (2022) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.36.3.185">Blending Theory and Data: A Space Odyssey</a> (2022) by Dave Donaldson (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  This article describes methods used in the field of spatial economics that combine insights from economic theory and evidence from data in order to answer counterfactual questions. I outline a 
+general framework that emphasizes three elements: a specific question to be answered, a set of empirical relationships that can be identified from exogeneity assumptions, and a theoretical model 
+that is used to extrapolate from such empirical relationships to the answer that is required. I then illustrate the application of these elements via a series of twelve examples drawn from the fields of 
+international, regional, and urban economics. These applications are chosen to illustrate the various techniques that researchers use to minimize the theoretical assumptions that are needed to 
+traverse the distance between identified empirical patterns and the questions that need to be answered.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_36_3_8/Blending_Economic_Theory_and_Data.mp3" length="21988260" type="audio/mpeg"/>
+  <guid>jep_36_3_8</guid>
+  <pubDate>Thu, 29 May 2025 04:31:49 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Principles for Combining Descriptive and Model-Based Analysis in Applied Microeconomics Research (2022) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.36.3.211">Principles for Combining Descriptive and Model-Based Analysis in Applied Microeconomics Research</a> (2022) by Neale Mahoney (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  In this article, I offer guidance on how to combine descriptive and model-based empirical analysis within a paper. Drawing on examples from three recently published applied microeconomics papers, I argue that it is important to create a tight link between the descriptive analysis and the bottom-line deliverable of the model-based analysis, and I try to distill some lessons or principles for doing so. I also offer some thoughts on when a paper should start with descriptive analysis and then proceed to model-based analysis and when alternative structures may be desirable.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_36_3_9/Combining_Descriptive_and_Model_Based_Analysis_in_Applied_Microeconomics.mp3" length="17582606" type="audio/mpeg"/>
+  <guid>jep_36_3_9</guid>
+  <pubDate>Thu, 29 May 2025 04:41:49 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Should We Insure Workers or Jobs during Recessions? (2022) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.36.2.29">Should We Insure Workers or Jobs during Recessions?</a> (2022) by Giulia Giupponi, Camille Landais, Alice Lapeyre (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  What is the most efficient way to respond to recessions in the labor market? To this question, policymakers on the two sides of the pond gave diametrically opposed answers during the COVID-19 
+crisis. In the United States, the focus was on insuring workers by increasing the generosity of unemployment insurance. In Europe, instead, policies were concentrated on saving jobs, with the 
+expansion of short-time work programs to subsidize labor hoarding. Who got it right? In this article, we show that far from being substitutes, unemployment insurance and short-time work exhibit 
+strong complementarities. They provide insurance to different types of workers and against different types of shocks. Short-time work can be effective at reducing socially costly layoffs against large 
+temporary shocks, but it is less effective against more persistent shocks that require reallocation across firms and sectors. We conclude that short-time work is an important addition to the labor 
+market policy-toolkit during recessions, to be used alongside unemployment insurance.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_36_2_2/Insuring_Workers_or_Jobs_During_Recessions.mp3" length="16823648" type="audio/mpeg"/>
+  <guid>jep_36_2_2</guid>
+  <pubDate>Thu, 29 May 2025 04:51:49 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 
 
 </channel>
