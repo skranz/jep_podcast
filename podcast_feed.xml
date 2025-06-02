@@ -992,6 +992,74 @@ investment per dollar of tax revenue than others.
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+  <title>An Introductory Guide to Event Study Models (2023) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.37.2.203">An Introductory Guide to Event Study Models</a> (2023) by Douglas L. Miller (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  The event study model is a powerful econometric tool used for the purpose of estimating dynamic treatment effects. One of its most appealing features is that it provides a built-in graphical summary of results, which can reveal rich patterns of behavior. Another value of the picture is the estimated pre-event pseudo-"effects", which provide a type of placebo test. In this essay I aim to provide a framework for a shared understanding of these models. There are several (sometimes subtle) decisions and choices faced by users of these models, and I offer guidance for these decisions.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_37_2_9/An_Introductory_Guide_to_Event_Study_Models.mp3" length="40597609" type="audio/mpeg"/>
+  <guid>jep_37_2_9</guid>
+  <pubDate>Mon, 02 Jun 2025 07:21:17 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The Ways of Corruption in Infrastructure: Lessons from the Odebrecht Case (2021) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.35.2.171">The Ways of Corruption in Infrastructure: Lessons from the Odebrecht Case</a> (2021) by Nicolás Campos, Eduardo Engel, Ronald D. Fischer, Alexander Galetovic (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  In 2016, the Brazilian construction firm Odebrecht was fined 2.6 billion USD by the US Department of Justice. It was the largest corruption case ever prosecuted under the US Foreign Corrupt Practices Act. Our examination of judicial documents and media reports on this case provides new insights on the workings of corruption in the infrastructure sector. Odebrecht paid bribes for two reasons: to tailor the terms of the auction in its favor, as well as to obtain favorable terms in contract renegotiations. In projects where Odebrecht paid bribes, costs increased by 70.8 percent on average, compared with 5.6 percent for projects with no bribes. We also find that bribes and profits made from bribing were smaller than documented in most previous studies, in the range of one to two percent of the cost of a project.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_35_2_8/Odebrecht_Corruption_in_Infrastructure_Lessons_from_the_Case.mp3" length="17353279" type="audio/mpeg"/>
+  <guid>jep_35_2_8</guid>
+  <pubDate>Mon, 02 Jun 2025 07:31:17 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>Global Value Chains in Developing Countries: A Relational Perspective from Coffee and Garments (2023) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.37.3.59">Global Value Chains in Developing Countries: A Relational Perspective from Coffee and Garments</a> (2023) by Laura Boudreau, Julia Cajal-Grossi, Rocco Macchiavello (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  There is a consensus that global value chains have aided developing countries' growth. This essay highlights the governance complexities arising from participating in such chains, drawing from lessons we have learned conducting research in the coffee and garment supply chains. Market power of international buyers can lead to inefficiently low wages, prices, quality standards, and poor working conditions. At the same time, some degree of market power might be needed to sustain long-term supply relationships that are beneficial in a world with incomplete contracts. We discuss how buyers' market power and long-term supply relationships interact and how these relationships at the export-gate could be leveraged to enhance sustainability in the domestic part of the chains. We hope that the lessons learned by combining detailed data and contextual knowledge in two specific chains—coffee and garments—have broader applicability to other global value chains.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_37_3_3/Relational_Trade_in_Developing_Countries_Global_Value_Chains.mp3" length="22887089" type="audio/mpeg"/>
+  <guid>jep_37_3_3</guid>
+  <pubDate>Mon, 02 Jun 2025 07:41:17 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+  <title>The Resilience of the Euro (2021) </title>
+  <description><![CDATA[NotebookLM deep dive into
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.35.2.3">The Resilience of the Euro</a> (2021) by Philip R. Lane (Journal of Economic Perspectives).
+
+  Not checked for correctness and not endorsed by the journal, the AEA or the authors of the
+  article. AI makes mistakes.
+
+  Abstract:
+  Over 2014–2019, the euro area charted a substantial post-crisis economic recovery while also reducing macro-financial vulnerabilities. The array of post-crisis institutional reforms has improved the capacity of the euro area to withstand adverse shocks, even if the narrowing of imbalances also came at a high cost (especially in the most indebted member countries). The pandemic has provided a new test: the combination of a common central bank and the enlargement of the common fiscal capacity has provided substantial policy support and fostered a narrowing in risk premia, despite significant differences in levels of public debt and exposures to the pandemic shock. While the resilience of the euro is sure to be tested further in the coming years, the extent of the underlying political backing for the common currency should not be underestimated.
+  ]]></description>
+  <enclosure url="https://github.com/skranz/jep_podcast/releases/download/jep_35_2_1/The_Resilience_of_the_Euro.mp3" length="13618235" type="audio/mpeg"/>
+  <guid>jep_35_2_1</guid>
+  <pubDate>Mon, 02 Jun 2025 07:51:17 +0000</pubDate>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 
 
 </channel>
